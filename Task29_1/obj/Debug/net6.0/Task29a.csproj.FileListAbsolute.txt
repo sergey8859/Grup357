@@ -1,0 +1,15 @@
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\bin\Debug\net6.0\Task29a.exe
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\bin\Debug\net6.0\Task29a.deps.json
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\bin\Debug\net6.0\Task29a.runtimeconfig.json
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\bin\Debug\net6.0\Task29a.dll
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\bin\Debug\net6.0\Task29a.pdb
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.csproj.AssemblyReference.cache
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.AssemblyInfoInputs.cache
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.AssemblyInfo.cs
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.dll
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\refint\Task29a.dll
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.pdb
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\Task29a.genruntimeconfig.cache
+C:\Users\Sergey\Documents\BeekBrains\С#\Seminars\Semina_5r\Task29a\obj\Debug\net6.0\ref\Task29a.dll
